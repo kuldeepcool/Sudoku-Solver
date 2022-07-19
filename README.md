@@ -9,9 +9,8 @@ Simple suduko-solver using backtracking.
 ## To get the output in a file follow the steps below:
   1. create new file `output.txt` in the same directory.
   2. Add this line of code after line 71 in `main`.
- 
-    ```c++
+  ```c++
     freopen("output.txt", "w", stdout);
-    ```
+  ```
   3. Compile and run
   4. Open `output.txt` in Notepad to see the output.
